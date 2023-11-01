@@ -12,7 +12,6 @@
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
 
-  <exec_depend>demo_nodes_ccp</exec_depend>
   <exec_depend>demo_nodes_py</exec_depend>
 
   <export>
